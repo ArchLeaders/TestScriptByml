@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Cead">
+      <HintPath>..\Cead.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

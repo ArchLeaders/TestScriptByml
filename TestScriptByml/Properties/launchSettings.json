@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestScriptByml": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Bin\\Totk\\TestScriptByml\\Tag.Product.111.rstbl.byml\" \"D:\\Bin\\Totk\\TestScriptByml\\Tag.Product.111.rstbl.out.byml\""
+    }
+  }
+}
